@@ -1,0 +1,59 @@
+18:54:19.404 [main] INFO  testCases.TC003_LoginTestDDT - ******* Starting TC003_LoginTestDDT************
+18:54:19.417 [main] INFO  testCases.TC003_LoginTestDDT - HomePage start
+18:54:19.483 [main] INFO  testCases.TC003_LoginTestDDT - HomePage click on acc
+18:54:19.907 [main] INFO  testCases.TC003_LoginTestDDT - HomePage click on login
+18:54:20.537 [main] INFO  testCases.TC003_LoginTestDDT - HomePage done
+18:54:20.538 [main] INFO  testCases.TC003_LoginTestDDT - loginpage start
+18:54:20.540 [main] INFO  testCases.TC003_LoginTestDDT - login fill details
+18:54:21.041 [main] INFO  testCases.TC003_LoginTestDDT - LoginPage done
+18:54:21.044 [main] INFO  testCases.TC003_LoginTestDDT - 111111
+18:54:21.047 [main] INFO  testCases.TC003_LoginTestDDT - 222222
+18:54:22.449 [main] INFO  testCases.TC003_LoginTestDDT - ******* Starting TC003_LoginTestDDT************
+18:54:22.506 [main] INFO  testCases.TC003_LoginTestDDT - ******* Starting TC003_LoginTestDDT************
+18:54:22.506 [main] INFO  testCases.TC003_LoginTestDDT - HomePage start
+18:54:22.507 [main] INFO  testCases.TC003_LoginTestDDT - HomePage click on acc
+18:54:22.632 [main] INFO  testCases.TC003_LoginTestDDT - HomePage click on login
+18:54:48.252 [main] INFO  testCases.TC003_LoginTestDDT - ******* Starting TC003_LoginTestDDT************
+18:54:48.619 [main] INFO  testCases.TC003_LoginTestDDT - ******* Starting TC003_LoginTestDDT************
+18:54:48.619 [main] INFO  testCases.TC003_LoginTestDDT - HomePage start
+18:54:48.620 [main] INFO  testCases.TC003_LoginTestDDT - HomePage click on acc
+18:54:48.785 [main] INFO  testCases.TC003_LoginTestDDT - HomePage click on login
+18:54:49.173 [main] INFO  testCases.TC003_LoginTestDDT - HomePage done
+18:54:49.173 [main] INFO  testCases.TC003_LoginTestDDT - loginpage start
+18:54:49.182 [main] INFO  testCases.TC003_LoginTestDDT - login fill details
+18:54:49.687 [main] INFO  testCases.TC003_LoginTestDDT - LoginPage done
+18:54:49.688 [main] INFO  testCases.TC003_LoginTestDDT - 111111
+18:54:49.688 [main] INFO  testCases.TC003_LoginTestDDT - 222222
+18:54:52.904 [main] INFO  testCases.TC003_LoginTestDDT - ******* Starting TC003_LoginTestDDT************
+18:54:52.941 [main] INFO  testCases.TC003_LoginTestDDT - ******* Starting TC003_LoginTestDDT************
+18:54:52.941 [main] INFO  testCases.TC003_LoginTestDDT - HomePage start
+18:54:52.942 [main] INFO  testCases.TC003_LoginTestDDT - HomePage click on acc
+18:54:53.081 [main] INFO  testCases.TC003_LoginTestDDT - HomePage click on login
+18:54:53.466 [main] INFO  testCases.TC003_LoginTestDDT - HomePage done
+18:54:53.466 [main] INFO  testCases.TC003_LoginTestDDT - loginpage start
+18:54:53.467 [main] INFO  testCases.TC003_LoginTestDDT - login fill details
+18:54:53.955 [main] INFO  testCases.TC003_LoginTestDDT - LoginPage done
+18:54:53.955 [main] INFO  testCases.TC003_LoginTestDDT - 111111
+18:54:53.955 [main] INFO  testCases.TC003_LoginTestDDT - 222222
+18:55:01.502 [main] INFO  testCases.TC003_LoginTestDDT - ******* Starting TC003_LoginTestDDT************
+18:55:01.557 [main] INFO  testCases.TC003_LoginTestDDT - ******* Starting TC003_LoginTestDDT************
+18:55:01.557 [main] INFO  testCases.TC003_LoginTestDDT - HomePage start
+18:55:01.558 [main] INFO  testCases.TC003_LoginTestDDT - HomePage click on acc
+18:55:01.591 [main] INFO  testCases.TC003_LoginTestDDT - ******* Starting TC003_LoginTestDDT************
+22:45:51.053 [main] INFO  testCases.TC001_AccountRegistrationTest - *******Starting TC001_FillDetailsTest******
+22:45:51.887 [main] INFO  testCases.TC001_AccountRegistrationTest - *Clicked on My Account...*
+22:45:52.588 [main] INFO  testCases.TC001_AccountRegistrationTest - *Clicked on Register...*
+22:45:52.591 [main] INFO  testCases.TC001_AccountRegistrationTest - *Providing customer details..*
+22:45:58.778 [main] INFO  testCases.TC001_AccountRegistrationTest - *Validating expected message...*
+22:45:58.884 [main] INFO  testCases.TC001_AccountRegistrationTest - *******Finishing TC001_FillDetailsTest******
+22:46:02.455 [main] INFO  testCases.TC002_FillLoginDetailsTest - ******* Starting Login test *******
+22:46:03.290 [main] INFO  testCases.TC002_FillLoginDetailsTest - *Clicked on My Account...*
+22:46:03.700 [main] INFO  testCases.TC002_FillLoginDetailsTest - *Clicked on Login...*
+22:46:03.704 [main] INFO  testCases.TC002_FillLoginDetailsTest - *Entering Login Details...*
+22:46:08.012 [main] INFO  testCases.TC002_FillLoginDetailsTest - *Checking the MyAccountPage...*
+22:46:08.013 [main] INFO  testCases.TC002_FillLoginDetailsTest - ******* Finishing Login test *******
+22:46:16.297 [main] INFO  testCases.TC003_LoginTestDDT - ******* Starting TC003_LoginTestDDT************
+22:46:16.297 [main] INFO  testCases.TC003_LoginTestDDT - HomePage start
+22:46:16.298 [main] INFO  testCases.TC003_LoginTestDDT - HomePage click on acc
+22:46:16.652 [main] INFO  testCases.TC003_LoginTestDDT - HomePage click on login
+22:46:17.335 [main] INFO  testCases.TC003_LoginTestDDT - HomePage done

@@ -6,6 +6,28 @@
 	<artifactId>OpenCartV121</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 
+	<build>
+		<pluginManagement>
+			<plugins>
+				
+				<plugin>
+					<groupId>org.apache.maven.plugin</groupId>
+					<artifactId>maven-complier-plugin</artifactId>
+					<version>3.11.0</version>
+				</plugin>
+				
+				<plugin>
+					<groupId>org.apache.maven.plugins</groupId>
+					<artifactId>maven-surefire-plugin</artifactId>
+					<version>3.2.2</version>
+					<configuration>
+						<suiteXmlFile>master.xml</suiteXmlFile>
+					</configuration>
+				</plugin>
+				
+			</plugins>
+		</pluginManagement>
+	</build>
 
 	<dependencies>
 
